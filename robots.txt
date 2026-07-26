@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-rxdv3t.juragan89.space/sitemap.xml
